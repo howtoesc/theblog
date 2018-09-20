@@ -79,4 +79,4 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:howtoesc/theblog.git
+  repo: https://github.com/howtoesc/theblog.git
